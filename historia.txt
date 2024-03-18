@@ -1,3 +1,4 @@
 raul tiene 28 de edad se convertira en un gran programados y empresarios con 
 el poder de dios este es el nuevo cambio tengo que practicar mucho terminal y linea de comando y 
-por demas git y github ya por fin me salio un push con otro colaborador y quiere aprender a hacer merge o confilictos
+por demas git y github ya por fin me salio un push con otro colaborador y quiere aprender a hacer merge o confilictos 
+haora tengo que actualizar mis llaves token y credential helper es un comando 
